@@ -1,0 +1,16 @@
+id="plugin.program.test"
+version="0.4.9"
+zip=""
+
+name="Test"
+version="1.0.0"
+url="https://www.dropbox.com/s/rv46jek57hohaly/build.zip?dl=1"
+gui=""
+kodi="18.1"
+theme="http://"
+icon="https://github.com/BigRedJim/wizard/blob/master/icon.png?raw=true"
+fanart="https://github.com/BigRedJim/wizard/blob/master/fanart.jpg?raw=true"
+preview="http://"
+adult="no"
+description="Beach Club Wizard with IPTV Addons"
+
