@@ -1,6 +1,0 @@
-name="Beach Club Build"	
-url="https://drive.google.com/uc?id=19DjhQDVpPWkOsrCXJQtNABVTBcvGCJWv&export=download"
-img="https://github.com/BigRedJim/wizard/blob/master/icon.png"
-fanart="https://github.com/BigRedJim/wizard/blob/master/fanart.jpg"
-description="Beach Club Build"
-version="1.0.1"
