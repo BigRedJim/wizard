@@ -1,0 +1,6 @@
+name="Beach Club Build"	
+url="http://YOURWEBHOST/BUILD.zip"
+img="http://YOURWEBHOST/buildname_icon.png"
+fanart="http://YOURWEBHOST/buildname_fanart.jpg"
+description="YOUR BUILD DESCRIPTION"
+version="1.0.0"
