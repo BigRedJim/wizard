@@ -1,8 +1,0 @@
-name="Beach Club Build"	
-url="https://www.dropbox.com/s/k23w0vie2hfrt1p/beachclubbuild.zip?dl=1"
-img="https://github.com/BigRedJim/wizard/blob/master/icon.png"
-fanart="https://github.com/BigRedJim/wizard/blob/master/fanart.jpg"
-description="Beach Club Build"
-version="1.0.2"
-
-fanart.jpg
